@@ -1,0 +1,1 @@
+{ "name": "rtl-chat", "version": "0.2.0", "description": "Draws chat messages right-to-left when the text is Arabic.", "license": "MIT" }

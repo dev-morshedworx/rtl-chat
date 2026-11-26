@@ -1,0 +1,7 @@
+{
+  "name": "rtl-chat-marketplace",
+  "owner": { "name": "dev-morshedworx" },
+  "plugins": [
+    { "name": "rtl-chat", "source": "./", "description": "Draws chat messages right-to-left when the text is Arabic." }
+  ]
+}
